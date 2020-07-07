@@ -7,10 +7,10 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "0.9.5",
-    "electron": "^6.0.2"
+    "electron": "^9.1.0"
   },
   "devDependencies": {
-    "electron": "^6.0.2"
+    "electron": "^9.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
